@@ -1,4 +1,4 @@
-# cisco-vlan-project
+# Multi-LAN Network Design
 This is Cisco packet tracer VLAN configuration project demonstrating two VLANs communicating with each other.
 # Multi-LAN Network Design - Cisco Packet Tracer
 
